@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiogoJorg3
-- 👀 I’m interested in ... building community for food forests
+- 👀 I’m interested in ... coordination between community-owned food forests
 - 🌱 I’m currently learning ... web3 ways
-- 💞️ I’m looking to collaborate on ... building infinite games
+- 💞️ I’m looking to collaborate on ... building a career alternative for those thinking long term
 - 📫 How to reach me ... send an email to moradavivald@gmail.com 
 
 <!---
